@@ -1,0 +1,83 @@
+$font: 	Arial;
+$prime-colors: #00ccff;
+$neg-colors: rgb(0, 162, 255);
+nav {
+    background-color: rgb(0, 162, 255);
+    margin: 10px;
+    padding: 8px;
+    display: block;
+    border-radius: 5px;
+}
+a {
+    font-family: $font;
+    font-size: 16px;
+    margin: 10px;
+    padding: 8px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+p {
+    margin: 10px;
+    padding: 8px;
+    font-family: $font;
+}
+h1 {
+    margin: 10px;
+    padding: 8px;
+    font-family: $font;
+}
+h2 {
+    margin: 10px;
+    padding: 8px;
+    font-family: $font;
+}
+h3 {
+    margin: 10px;
+    padding: 8px;
+    font-family: $font;
+}
+h4 {
+    margin: 10px;
+    padding: 8px;
+    font-family: $font;
+}
+h5 {
+    margin: 10px;
+    padding: 8px;
+    font-family: $font;
+}
+h6 {
+    margin: 10px;
+    padding: 8px;
+    font-family: $font;
+}
+button {
+    background-color: #00ccff;
+    font-family: $font;
+    color: white;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 9px;
+}
+.buttonlink {
+    background-color: #00ccff;
+    font-family: $font;
+    color: white;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 9px;
+}
+.navtext {
+    font-family: $font;
+    font-size: 16px;
+    margin: 10px;
+    padding: 8px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
