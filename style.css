@@ -19,6 +19,7 @@ p {
   margin: 10px;
   padding: 8px;
   font-family: Arial;
+  font-size: 19px;
 }
 
 h1 {
@@ -73,12 +74,28 @@ button {
   background-color: #00ccff;
   font-family: Arial;
   color: white;
-  padding: 8px 8px;
+  padding: 8px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   margin: 10px;
   border-radius: 9px;
+}
+xmp {
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: Arial;
+    padding: 0 3px;
+    font-size: 20px;
+    margin: 10px;
+}
+code {
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: Arial;
+    padding: 0 3px;
+    font-size: 21px;
+    margin: 10px;
 }
 
 .navtext {
