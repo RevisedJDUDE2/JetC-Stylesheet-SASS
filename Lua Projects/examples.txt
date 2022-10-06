@@ -1,0 +1,12 @@
+local wait = require "wait"
+--your code
+function helloworld()
+local isLooping = true
+while isLooping do
+wait(1)
+print("Hello World")
+end
+end
+
+
+helloworld()
