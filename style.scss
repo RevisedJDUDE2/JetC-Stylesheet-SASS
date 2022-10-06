@@ -1,59 +1,66 @@
-$font: 	Arial;
-$prime-colors: #00ccff;
-$neg-colors: rgb(0, 162, 255);
 nav {
     background-color: rgb(0, 162, 255);
     margin: 10px;
     padding: 8px;
     display: block;
     border-radius: 5px;
-}
-a {
-    font-family: $font;
-    font-size: 16px;
+  }
+  
+  a {
+    font-family: Arial;
+    font-size: 20px;
     margin: 10px;
     padding: 8px;
     color: rgb(0, 0, 0);
     text-decoration: none;
-}
-p {
+  }
+  
+  p {
     margin: 10px;
     padding: 8px;
-    font-family: $font;
-}
-h1 {
+    font-family: Arial;
+    font-size: 19px;
+  }
+  
+  h1 {
     margin: 10px;
     padding: 8px;
-    font-family: $font;
-}
-h2 {
+    font-family: Arial;
+  }
+  
+  h2 {
     margin: 10px;
     padding: 8px;
-    font-family: $font;
-}
-h3 {
+    font-family: Arial;
+  }
+  
+  h3 {
     margin: 10px;
     padding: 8px;
-    font-family: $font;
-}
-h4 {
+    font-family: Arial;
+  }
+  
+  h4 {
     margin: 10px;
     padding: 8px;
-    font-family: $font;
-}
-h5 {
+    font-family: Arial;
+  }
+  
+  h5 {
     margin: 10px;
     padding: 8px;
-    font-family: $font;
-}
-h6 {
+    font-family: Arial;
+  }
+  
+  h6 {
     margin: 10px;
     padding: 8px;
-    font-family: $font;
-}
-button {
+    font-family: Arial;
+  }
+  
+  button {
     background-color: #00ccff;
-    font-family: $font;
+    font-family: Arial;
     color: white;
     padding: 8px 8px;
     text-align: center;
@@ -61,23 +68,41 @@ button {
     display: inline-block;
     margin: 10px;
     border-radius: 9px;
-}
-.buttonlink {
+  }
+  
+  .buttonlink {
     background-color: #00ccff;
-    font-family: $font;
+    font-family: Arial;
     color: white;
-    padding: 8px 8px;
+    padding: 8px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     margin: 10px;
     border-radius: 9px;
-}
-.navtext {
-    font-family: $font;
+  }
+  xmp {
+      background-color: #eee;
+      border-radius: 3px;
+      font-family: Arial;
+      padding: 0 3px;
+      font-size: 20px;
+      margin: 10px;
+  }
+  code {
+      background-color: #eee;
+      border-radius: 3px;
+      font-family: Arial;
+      padding: 0 3px;
+      font-size: 21px;
+      margin: 10px;
+  }
+  
+  .navtext {
+    font-family: Arial;
     font-size: 16px;
     margin: 10px;
     padding: 8px;
     color: rgb(255, 255, 255);
     text-decoration: none;
-}
+  }/*# sourceMappingURL=style.css.map */
